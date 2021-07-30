@@ -21,7 +21,7 @@
 - `.` ~~~~~~ `Create and switch to new Block`
 - `0~9` ~~~~ `Multiply number given and value, change value of block to multiplied value`
 ### How it work:
-#### Each Block stands for each Character, each value stands for each Character's value. Value table: here
+#### Each Block stands for each Character, each value stands for each Character's value. Value table: [here](https://github.com/MaybeELEMENT/DeezNuts#value-table)
 #### Example:
 Code:
 ```diff
