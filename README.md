@@ -7,6 +7,12 @@
 ### `deeznut test.nut`
 ### Official Deeznut file extension: `.nut`
 
+## How to create executable?
+### You need to have clang installed.
+### Command:
+### cd to source code and enter command `./run`
+### and now you have the Executable built.
+
 ## How to code it?
 ### Available Key:
 - `+`
