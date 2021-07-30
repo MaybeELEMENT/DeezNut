@@ -1,6 +1,12 @@
 # DeezNuts Programming Language
 ## DeezNuts is a Esoteric Programming Language, made in C++ with only 1 file and 255 lines.
 
+## How to compile?
+### Enter file name of code at the command line argument on the executable
+### Example:
+### `deeznut test.nut`
+### Official Deeznut file extension: `.nut`
+
 ## How to code it?
 ### Available Key:
 - `+`
