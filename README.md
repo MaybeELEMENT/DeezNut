@@ -8,9 +8,9 @@
 ### Official Deeznut file extension: `.nut`
 
 ## How to create executable?
-### You need to have clang installed.
+### You need to have clang++ installed.
 ### Command:
-### cd to source code and enter command `./run`
+### cd to source code and enter command `./run` or `make`
 ### and now you have the Executable built.
 
 ## How to code it?
@@ -27,7 +27,7 @@
 - `+` ~~~~~~ `Increase value of current Position block`
 - `-` ~~~~~~ `Decrease value of current Position block`
 - `<` ~~~~~~ `Decrease value of Position`
-- `>` ~~~~~~ `Increase valye of Position`
+- `>` ~~~~~~ `Increase value of Position`
 - `^` ~~~~~~ `Create Input`
 - `$` ~~~~~~ `Get value of Input`
 - `.` ~~~~~~ `Create and switch to new Block`
